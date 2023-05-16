@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-theme-hamilton
 
 paginate: 10
 
@@ -26,7 +27,7 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
-
+sink: sunset
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
