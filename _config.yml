@@ -3,6 +3,7 @@ description: A homepage.
 author: XiuYi Chen
 avatar: /personal_eone_log.png
 email: Eoneanyna@163.com
+skin: sunset
 
 plugins:
   - jekyll-seo-tag
@@ -27,7 +28,6 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
-sink: sunset
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
